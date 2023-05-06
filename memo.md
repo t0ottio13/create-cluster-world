@@ -8,3 +8,5 @@
   - https://creator.cluster.mu/2021/08/10/render-texture/
 - 特定のオブジェクトだけカメラに映す
   - https://unity-guide.moon-bear.com/camera-culling-mask/
+- 特定のオブジェクトのみ光を当てる
+  - https://creator.cluster.mu/2022/04/21/avataronlylight/
